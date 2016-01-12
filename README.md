@@ -46,3 +46,5 @@ Directory structure:
   The script that is used for building chroot environments.
 - ```virtualbox.mk```
   The script that is used for preparing tarball archive with virtualbox scripts.
+
+docker/cobbler
